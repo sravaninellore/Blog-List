@@ -1,0 +1,21 @@
+.title-date-alignment {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.blog-description {
+  color: #9aa5b1;
+  font-size: 14px;
+}
+
+.blog-date {
+  color: #9aa5b1;
+  font-size: 15px;
+}
+
+.hr-line {
+  border: none;
+  height: 0.1px;
+  background-color: #9aa5b1;
+}
